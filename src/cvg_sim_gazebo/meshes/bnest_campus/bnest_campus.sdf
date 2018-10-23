@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<sdf version="1.5">
+	<model name = "bnest campus">
+	<static>true</static>
+	<link name="bnest_campus_link">
+	<collison name="chair_collision">
+	<geometry>
+		<box>
+			<size>10000 10000 10000</size>
+		</box>
+	</geometry>
+	</collision>
+
+	<visual name="bnest_campus_mesh">
+ 		<cast_shadows>true</cast_shadows>
+		<geometry>
+			<mesh>
+				<uri>model://meshes/bnest_campus.dae</uri>
+			</mesh>
+		</geometry>
+	</visual>
+	</link>
+	</model>
+</sdf>
+

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user/Drone/install/setup.sh

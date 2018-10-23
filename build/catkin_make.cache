@@ -1,0 +1,2 @@
+ardrone_autonomy:controller:cvg_sim_gazebo:cvg_sim_gazebo_plugins:cvg_sim_msgs:tum_simulator
+-DCATKIN_DEVEL_PREFIX=/home/user/Drone/devel -DCMAKE_INSTALL_PREFIX=/home/user/Drone/install -G Unix Makefiles

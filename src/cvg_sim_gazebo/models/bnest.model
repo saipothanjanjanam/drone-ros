@@ -1,0 +1,13 @@
+
+<gazebo version="1.0">
+	<model name="bnest_campus" static="true">
+		<origin pose="0 0 0 0 0 0" />
+		<link name="bnest_campus">
+			<visual name="visual">
+				<geometry>
+					<mesh filename="bnest_campus.dae" scale="1.0 1.0 1.0" />
+				</geometry>
+			</visual>
+		</link>
+	</model>
+</gazebo>

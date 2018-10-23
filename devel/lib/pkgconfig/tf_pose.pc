@@ -1,0 +1,8 @@
+prefix=/home/user/Drone/devel
+
+Name: tf_pose
+Description: Description of tf_pose
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/user/Drone/devel/lib 
+Requires: 
